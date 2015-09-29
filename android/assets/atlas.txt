@@ -1,0 +1,53 @@
+atlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bee-1
+  rotate: false
+  xy: 182, 144
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+bee-2
+  rotate: false
+  xy: 247, 144
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+bee-3
+  rotate: false
+  xy: 312, 144
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 8, 3
+  size: 376, 137
+  orig: 376, 137
+  offset: 0, 0
+  index: -1
+sky
+  rotate: false
+  xy: 3, 3
+  size: 1, 1578
+  orig: 1, 1578
+  offset: 0, 0
+  index: -1
+wasp-1
+  rotate: false
+  xy: 8, 144
+  size: 83, 72
+  orig: 83, 72
+  offset: 0, 0
+  index: -1
+wasp-2
+  rotate: false
+  xy: 95, 144
+  size: 83, 72
+  orig: 83, 72
+  offset: 0, 0
+  index: -1
